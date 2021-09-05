@@ -1,1 +1,1 @@
-# beta-photo
+# better-photo
